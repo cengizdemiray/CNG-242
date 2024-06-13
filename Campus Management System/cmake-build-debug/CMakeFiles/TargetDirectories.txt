@@ -1,0 +1,3 @@
+/Users/cengizdemiray/CLionProjects/assigment2/cmake-build-debug/CMakeFiles/assigment2.dir
+/Users/cengizdemiray/CLionProjects/assigment2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cengizdemiray/CLionProjects/assigment2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
